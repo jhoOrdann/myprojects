@@ -1,0 +1,14 @@
+/* Importar URL do Google Fonts utilizando a API do Google */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+/* Aqui você define para todas as propriedades */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Propriedades do <html></html> */
+html{
+    font-family: 'DM Sans', Arial, sans-serif; /* Você pode adicionar no (*) também */
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0); /* Faz com que o site no celular não apareça o toque azul */
+    scroll-behavior: smooth; /* Deixa a rolagem do site suave */
+}
