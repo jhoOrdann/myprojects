@@ -6,3 +6,6 @@ Por favor, dê uma estrela no nosso repositório :>
 ## Como utilizar
 Você pode utilizar o javascript, html, css entre outras linguagens 
 que você saiba.
+
+## Linguagens
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](#)
