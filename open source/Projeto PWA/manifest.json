@@ -1,0 +1,25 @@
+{
+    "dir": "auto",
+    "display": "standalone",
+    "name": "Como é um PWA",
+    "orientation": "portrait",
+    "scope": "URL_DO_SITE",
+    "short_name": "PWA",
+    "start_url": "URL_DO_SITE",
+    "icons": [
+      {
+        "src": "https://wallpapercave.com/wp/wp4471362.jpg",
+        "type": "image/jpg",
+        "sizes": "1024x1024"
+      }
+    ],
+    "id": "criando.um.pwa",
+    "description": "Este é um exemplo de PWA",
+    "lang": "pt",
+    "display_override": [
+      "fullscreen",
+      "window-controls-overlay",
+      "minimal-ui",
+      "standalone"
+    ]
+}
